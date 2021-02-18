@@ -18,16 +18,16 @@
 ## Пример приложения на iPhone:
 ### Портретная ориентация:
 
-![Portrait Orientation](https://github.com/Izvalus/PrimeAndFibonacciNumbers/blob/main/GIFs/PortraitOrientation.gif)
+![Portrait Orientation](https://github.com/Izvalus/PrimeAndFibonacciNumbers/main/GIFs/PortraitOrientation.gif)
 
 ### Альбомная ориентация:
 
-![Landscape Orientation](https://github.com/Izvalus/PrimeAndFibonacciNumbers/blob/main/GIFs/LandscapeOrientation.gif)
+![Landscape Orientation](https://github.com/Izvalus/PrimeAndFibonacciNumbers/main/GIFs/LandscapeOrientation.gif)
 
 ## Пример приложения на iPad:
 
-![iPad](https://github.com/Izvalus/PrimeAndFibonacciNumbers/blob/main/GIFs/iPad.gif)
+![iPad](https://github.com/Izvalus/PrimeAndFibonacciNumbers/main/GIFs/iPad.gif)
 
 ## Пример приложения на Mac:
 
-![Mac](https://github.com/Izvalus/PrimeAndFibonacciNumbers/blob/main/GIFs/Mac.gif)
+![Mac](https://github.com/Izvalus/PrimeAndFibonacciNumbers/main/GIFs/Mac.gif)
