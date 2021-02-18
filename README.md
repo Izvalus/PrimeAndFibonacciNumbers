@@ -18,7 +18,7 @@
 ## Пример приложения на iPhone:
 ### Портретная ориентация:
 
-![Portrait Orientation](https://github.com/Izvalus/PrimeAndFibonacciNumbers/main/GIFs/PortraitOrientation.gif)
+![Portrait Orientation](https://github.com/Izvalus/PrimeAndFibonacciNumbers/GIFs/PortraitOrientation.gif)
 
 ### Альбомная ориентация:
 
