@@ -12,6 +12,8 @@
 - XCTest - unit test
 - BigInt
 - GCD multithread
+- Design patterns Adapter
+- Design patterns Factory
 - MVC
 
 
